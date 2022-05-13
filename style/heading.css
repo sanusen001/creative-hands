@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Tapestry&display=swap');
+
+.heading-font{
+    font-family: "Dosis", "Open Sans", sans-serif;}
+
+    .display-5{
+        font-size: 2.5rem;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+    .display-6{
+        font-size: 2rem;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+    .display-7{
+        font-size: 1.75rem;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+    .display-8{
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+    .display-9{
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+
+    .font-head{
+        font-family: 'Tapestry', cursive;
+        font-size: xx-large;
+        font-weight: bolder;
+    }
+
+
+    /* Margin */
+.mb-4, .my-4{margin-bottom: 1.5rem !important;}
+.mt-4, .my-4{margin-top: 1.5rem !important;}
+
+
+.mt-5, .my-5{margin-top: 3rem !important;}
+.mb-5, .my-5{margin-bottom: 3rem !important;}
+
+.mr-3, .mx-3{margin-right: 1rem !important;}
+.ml-3, .mx-3{margin-left: 1rem !important;}
+
